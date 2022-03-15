@@ -1,5 +1,3 @@
-# Welcome to Mini Market Makers
-
 # Mini Market Makers NFT minting dapp 🔥
 
 ## Usage ℹ️
